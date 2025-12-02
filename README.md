@@ -22,4 +22,4 @@ Invest in geographic expansion beyond SP/RJ/MG corridor while maintaining catego
 ### A. Overall Revenue Performance
 #### High-Level Metrics
 
-The marketplace processed over 96,000 delivered orders across [74] unique products, demonstrating significant scale and product diversity. The average order value of R$119 suggests a mix of low-to-mid ticket purchases typical of mass-market e-commerce.
+The marketplace processed over 96,000 delivered orders across 74 unique products, demonstrating significant scale and product diversity. The average order value of R$119 suggests a mix of low-to-mid value purchases typical of mass-market e-commerce.
