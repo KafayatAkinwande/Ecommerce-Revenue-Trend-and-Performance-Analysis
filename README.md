@@ -23,3 +23,10 @@ Invest in geographic expansion beyond SP/RJ/MG corridor while maintaining catego
 #### High-Level Metrics
 
 The marketplace processed over 96,000 delivered orders across 74 unique products, demonstrating significant scale and product diversity. The average order value of R$119 suggests a mix of low-to-mid value purchases typical of mass-market e-commerce.
+
+#### Revenue Growth Trajectory
+
+Key Findings:
+
+- Sustained Growth: Revenue shows consistent upward trajectory from Jan 2017 through Aug 2018
+- Acceleration: Growth rate appears to accelerate in H2 2018, with recent months showing highest revenue
