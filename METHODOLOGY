@@ -1,0 +1,30 @@
+# METHODOLOGY , DATA QUALITY & ASSUMPTIONS
+
+## Tools & Approach
+
+Database: PostgreSQL for data extraction and transformation
+Visualization: Power BI for interactive dashboard
+Framework: SCAN methodology (Stakeholder goals, Columns, Aggregates, Notable segments)
+
+Data Quality Notes
+✅ Inclusions:
+
+Orders with order_status = 'delivered' only
+Date range: January 2017 - August 2018 (full operational data)
+
+❌ Exclusions:
+
+September-December 2016 (platform beta/soft launch phase - incomplete data)
+Cancelled and pending orders
+Orders with missing delivery dates
+
+⚠️ Known Limitations:
+
+1.85% of products lack category classification (labeled as 'unknown_category')
+Data ends August 2018 (projections beyond this use run rate methodology)
+
+Key Assumptions
+
+Growth rates use apples-to-apples comparison (Jan-Aug 2017 vs Jan-Aug 2018)
+Run rate calculated from most recent 3 months (Jun-Aug 2018) annualized
+Currency values not adjusted for inflation (nominal R$)
