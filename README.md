@@ -130,6 +130,7 @@ Olist Ecommerce is a High-Growth Marketplace with Strong Fundamentals. The marke
 
 - RR's(Roraima) 299% Growth: Small state showing explosive growth from R$1.4K to R$5.6K - early indicator of Northern region opportunity
 - Computers Category Efficiency: Only 30 products sold generated R$218K (AOV R$1,098) - demonstrates high-value, low-volume opportunity
+  
 ## BUSINESS RECOMMENDATION
 
 ### 1. Launch Northern Region Pilot Campaign:
@@ -149,7 +150,7 @@ Reduce Top 3 state concentration from 63% to <55% through the following tactics:
 This can further be achieved by reallocating 20% of SP-focused spend to diversification initiatives, resulting in revenue shift to emerging regions
 Expected Impact: 8-10% revenue shift to emerging regions
 
-#### 4. Category Portfolio Optimization
+### 4. Category Portfolio Optimization
 Maintain healthy 25-30% concentration in Top 3 categories while scaling total revenue through the following tactics:
 
 - Quarterly category performance reviews
