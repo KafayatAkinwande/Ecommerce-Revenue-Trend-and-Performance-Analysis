@@ -19,12 +19,15 @@ Inclusions:
 
 ⚠️ Known Limitations:
 
-1.85% of products lack category classification (labeled as 'unknown_category')
-Data ends August 2018 (projections beyond this use run rate methodology)
-Two products have no English trandlations
+- 1.85% of products lack category classification (labeled as 'unknown_category')
+- Data ends August 2018 (projections beyond this use run rate methodology)
+- Two products have no English translations
 
 Key Assumptions
 
 - Growth rates use apples-to-apples comparison (Jan-Aug 2017 vs Jan-Aug 2018)
 - Run rate calculated from most recent 3 months (Jun-Aug 2018) annualized
 - Currency values not adjusted for inflation (nominal R$)
+
+
+
