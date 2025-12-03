@@ -87,4 +87,24 @@ High AOV states: High AOVs >R$150 are amonngst the lowest revenue generating sta
 Volume states: SP leads in order count, indicating established market penetration
 Underserved regions: Northern and Central-West states show lower penetration despite population size
 
+#### State Growth Rate Analysis
+
+##### Emerging Market Opportunity:
+
+- Roraima (RR) shows exceptional 299% growth (R$1.4K → R$5.6K), though from small base
+- Northern states (RR, AP, AM) display double digit growth rates, indicating early-stage market penetration
+- Established markets (SP, and MG) show >15% growth, demonstrating continued strong performance
+
+##### Expansion Recommendation:
+While absolute revenue in emerging states is small, the explosive growth rates suggest:
+
+- Untapped market potential in Northern/Central-West regions
+- Logistics improvements have enabled reach to previously underserved areas
+- Opportunity to capture market share before competitors scale
+
+##### Risk Mitigation:
+The 63% concentration in top 3 states creates dependency risk. Economic downturn or regional disruption in Southeast could significantly impact revenue. Diversification into high-growth emerging markets would balance portfolio.
+
+87.5% (7 out of 8) of states experiencing negative growth rates are located in the North and NorthEast Region. Though the value or percentage decrease is not signitficant. It can be looked into further the reason for the concentration in that region.
+
 
