@@ -26,7 +26,9 @@ The marketplace processed over 96,000 delivered orders across 74 unique products
 
 #### Revenue Growth Trajectory
 
+![alt text]()
 Key Findings:
 
 - Sustained Growth: Revenue shows consistent upward trajectory from Jan 2017 through Aug 2018
+- Seasonal Patterns:
 - Acceleration: Growth rate appears to accelerate in H2 2018, with recent months showing highest revenue
