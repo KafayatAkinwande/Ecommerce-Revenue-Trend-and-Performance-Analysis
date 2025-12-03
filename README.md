@@ -71,17 +71,19 @@ Balanced performers: Health & Beauty combines solid volume (2,444) with above-av
 
 ### C. Geographic Performance Analysis
 
+![Top 10 State](https://github.com/KafayatAkinwande/Ecommerce-Revenue-Trend-and-Performance-Analysis/blob/main/Top%2010%20state.png)
+
 #### State-Level Revenue Distribution
 
 ##### Geographic Concentration Risk:
 
-São Paulo dominates with 38.3% of revenue
-Top 3 states (SP, RJ, MG) account for 63.3% of total revenue
-Southeast region concentration creates logistics efficiency but market dependency risk
+- São Paulo dominates with 38.3% of revenue
+- Top 3 states (SP, RJ, MG) account for 63.3% of total revenue
+- Southeast region concentration creates logistics efficiency but market dependency risk
 
 ##### Regional Patterns:
 
-High AOV states: [Identify states with AOV >R$150 - suggests wealthier demographics or different product mix]
+High AOV states: High AOVs >R$150 are amonngst the lowest revenue generating state suggests, lower income demography concentration
 Volume states: SP leads in order count, indicating established market penetration
 Underserved regions: Northern and Central-West states show lower penetration despite population size
 
