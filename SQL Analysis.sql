@@ -85,3 +85,35 @@ WHERE o.order_status = 'delivered'
 GROUP BY c.customer_state
 ORDER BY total_revenue DESC
 LIMIT 10;
+
+-- State-Level YoY Growth (Jan-Aug 2017 vs 2018)
+WITH state_yearly AS (
+    SELECT 
+        c.customer_state,
+        EXTRACT(YEAR FROM o.order_purchase_timestamp) AS year,
+        ROUND(SUM(oi.price)::NUMERIC, 2) AS revenue
+    FROM orders o
+    JOIN customers c ON o.customer_id = c.customer_id
+    JOIN order_items oi ON o.order_id = oi.order_id
+    WHERE o.order_status = 'delivered'
+        AND o.order_purchase_timestamp >= '2017-01-01'
+        AND o.order_purchase_timestamp <= '2018-08-31'
+    GROUP BY c.customer_state, EXTRACT(YEAR FROM o.order_purchase_timestamp)
+),
+growth_calc AS (
+    SELECT 
+        customer_state,
+        MAX(CASE WHEN year = 2017 THEN revenue END) AS revenue_2017,
+        MAX(CASE WHEN year = 2018 THEN revenue END) AS revenue_2018
+    FROM state_yearly
+    GROUP BY customer_state
+)
+SELECT 
+    customer_state,
+    revenue_2017,
+    revenue_2018,
+    ROUND(100.0 * (revenue_2018 - revenue_2017) / NULLIF(revenue_2017, 0), 2) AS yoy_growth_pct
+FROM growth_calc
+WHERE revenue_2017 IS NOT NULL AND revenue_2018 IS NOT NULL
+ORDER BY yoy_growth_pct DESC
+LIMIT 15;
