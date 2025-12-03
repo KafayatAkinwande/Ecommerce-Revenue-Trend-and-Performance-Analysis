@@ -22,6 +22,8 @@ Invest in geographic expansion beyond SP/RJ/MG corridor while maintaining catego
 ### A. Overall Revenue Performance
 #### High-Level Metrics
 
+![KPI](https://github.com/KafayatAkinwande/Ecommerce-Revenue-Trend-and-Performance-Analysis/blob/main/KPIs.png)
+
 The marketplace processed over 96K delivered orders across 74 unique products, demonstrating significant scale and product diversity. The average order value of R$119 suggests a mix of low-to-mid value purchases typical of mass-market e-commerce.
 
 #### Revenue Growth Trajectory
