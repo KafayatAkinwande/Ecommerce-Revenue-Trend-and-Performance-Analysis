@@ -51,3 +51,20 @@ SELECT
         LAG(total_revenue) OVER (ORDER BY year), 2) AS yoy_growth_pct
 FROM yearly_comparison
 ORDER BY year;
+
+-- Revenue by Product Category (Top 10)
+SELECT 
+    COALESCE(pct.product_category_name_english, 'unknown_category') AS category,
+    COUNT(DISTINCT oi.order_id) AS total_orders,
+    ROUND(SUM(oi.price)::NUMERIC, 2) AS total_revenue,
+    ROUND(AVG(oi.price)::NUMERIC, 2) AS avg_price,
+    ROUND(100.0 * SUM(oi.price) / SUM(SUM(oi.price)) OVER (), 2) AS revenue_pct
+FROM order_items oi
+JOIN products p ON oi.product_id = p.product_id
+LEFT JOIN product_category_name_translation pct 
+    ON p.product_category_name = pct.product_category_name
+JOIN orders o ON oi.order_id = o.order_id
+WHERE o.order_status = 'delivered'
+GROUP BY COALESCE(pct.product_category_name_english, 'unknown_category')
+ORDER BY total_revenue DESC
+LIMIT 10;
