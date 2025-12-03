@@ -45,6 +45,25 @@ The 114% year-over-year revenue growth is exceptional for an established marketp
 ##### Run Rate Projection:
 Based on Q3 2018 performance (Jun-Aug), the annualized run rate is R$10.25M, suggesting potential full-year 2018 revenue of R$10-11M if momentum continues.
 
-### Product Category Performance
+### B. Product Category Performance
 
 #### Category Revenue Distribution
+
+##### Product Diversification:
+
+Top 3 categories (Health & Beauty, Watches & Gifts, Bed Bath Table) represent 25.9% of total revenue
+
+This distribution is quite unhealthy and concentrated for a typical e-commerce. 
+
+##### Category Insights:
+
+Health & Beauty (Leader): High order volume with moderate AOV suggests mass-market appeal
+Watches & Gifts (High AOV): Lower volume but higher-value purchases; potential for targeted marketing
+Bed Bath Table: Strong volume indicating household goods demand
+Computers (High AOV = R$1,098): Premium category with only 30 products sold generating R$218K - opportunity for expansion
+
+##### Volume vs. Value Analysis:
+
+Volume leaders: Bed Bath Table (3,029 orders) drives sales through quantity
+Value leaders: Computers (AOV R$1,098) and Watches command premium prices
+Balanced performers: Health & Beauty combines solid volume (2,444) with above-average spend
