@@ -88,6 +88,7 @@ Volume states: SP leads in order count, indicating established market penetratio
 Underserved regions: Northern and Central-West states show lower penetration despite population size
 
 #### State Growth Rate Analysis
+![State Growth Rate](https://github.com/KafayatAkinwande/Ecommerce-Revenue-Trend-and-Performance-Analysis/blob/main/Customer%20State%20Growth.png))
 
 ##### Emerging Market Opportunity:
 
