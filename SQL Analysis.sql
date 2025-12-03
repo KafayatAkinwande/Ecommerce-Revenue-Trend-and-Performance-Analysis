@@ -68,3 +68,20 @@ WHERE o.order_status = 'delivered'
 GROUP BY COALESCE(pct.product_category_name_english, 'unknown_category')
 ORDER BY total_revenue DESC
 LIMIT 10;
+
+-- Revenue by Customer State (Top 10)
+SELECT 
+    c.customer_state,
+    COUNT(DISTINCT o.order_id) AS total_orders,
+    ROUND(SUM(oi.price)::NUMERIC, 2) AS total_revenue,
+    ROUND(AVG(oi.price)::NUMERIC, 2) AS avg_order_value,
+    ROUND(100.0 * SUM(oi.price) / SUM(SUM(oi.price)) OVER (), 2) AS revenue_pct,
+    ROUND(100.0 * COUNT(DISTINCT o.order_id) / SUM(COUNT(DISTINCT o.order_id)) OVER (), 2) AS order_pct
+FROM orders o
+JOIN customers c ON o.customer_id = c.customer_id
+JOIN order_items oi ON o.order_id = oi.order_id
+WHERE o.order_status = 'delivered'
+    AND o.order_purchase_timestamp >= '2017-01-01'
+GROUP BY c.customer_state
+ORDER BY total_revenue DESC
+LIMIT 10;
