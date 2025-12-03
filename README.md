@@ -69,4 +69,20 @@ Volume leaders: Bed Bath Table (3,029 orders) drives sales through quantity
 Value leaders: Computers (AOV R$1,098) and Watches command premium prices
 Balanced performers: Health & Beauty combines solid volume (2,444) with above-average spend
 
+### C. Geographic Performance Analysis
+
+#### State-Level Revenue Distribution
+
+##### Geographic Concentration Risk:
+
+São Paulo dominates with 38.3% of revenue
+Top 3 states (SP, RJ, MG) account for 63.3% of total revenue
+Southeast region concentration creates logistics efficiency but market dependency risk
+
+##### Regional Patterns:
+
+High AOV states: [Identify states with AOV >R$150 - suggests wealthier demographics or different product mix]
+Volume states: SP leads in order count, indicating established market penetration
+Underserved regions: Northern and Central-West states show lower penetration despite population size
+
 
