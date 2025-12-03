@@ -48,6 +48,7 @@ Based on Q3 2018 performance (Jun-Aug), the annualized run rate is R$10.25M, sug
 ### B. Product Category Performance
 
 #### Category Revenue Distribution
+!![Top product categories](https://github.com/KafayatAkinwande/Ecommerce-Revenue-Trend-and-Performance-Analysis/blob/main/Top%2010%20Categories.png)
 
 ##### Product Diversification:
 
@@ -67,3 +68,5 @@ Computers (High AOV = R$1,098): Premium category with only 30 products sold gene
 Volume leaders: Bed Bath Table (3,029 orders) drives sales through quantity
 Value leaders: Computers (AOV R$1,098) and Watches command premium prices
 Balanced performers: Health & Beauty combines solid volume (2,444) with above-average spend
+
+
