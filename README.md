@@ -24,14 +24,27 @@ Invest in geographic expansion beyond SP/RJ/MG corridor while maintaining catego
 
 ![KPI](https://github.com/KafayatAkinwande/Ecommerce-Revenue-Trend-and-Performance-Analysis/blob/main/KPIs.png)
 
+##### Insight:
 The marketplace processed over 96K delivered orders across 74 unique products, demonstrating significant scale and product diversity. The average order value of R$119 suggests a mix of low-to-mid value purchases typical of mass-market e-commerce.
 
 #### Revenue Growth Trajectory
 
 ![Sales Revenue Trend](https://github.com/KafayatAkinwande/Ecommerce-Revenue-Trend-and-Performance-Analysis/blob/main/Sales%20Revenue.png)
 
-Key Findings:
+##### Key Findings:
 
 - Sustained Growth: Revenue shows consistent upward trajectory from Jan 2017 through Aug 2018
 - Seasonal Patterns:
 - Acceleration: Growth rate appears to accelerate in H2 2018, with recent months showing highest revenue
+
+#### Year-over-Year Growth Analysis
+
+##### Strategic Insight:
+The 114% year-over-year revenue growth is exceptional for an established marketplace. More importantly, this growth is volume-driven (order count +140%) rather than price-driven (AOV -1%), indicating successful customer acquisition and retention strategies. The stable AOV suggests we're maintaining product mix and not chasing high-ticket items at the expense of accessibility.
+
+##### Run Rate Projection:
+Based on Q3 2018 performance (Jun-Aug), the annualized run rate is R$10.25M, suggesting potential full-year 2018 revenue of R$10-11M if momentum continues.
+
+### Product Category Performance
+
+#### Category Revenue Distribution
