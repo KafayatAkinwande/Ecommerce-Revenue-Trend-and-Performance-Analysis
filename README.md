@@ -16,6 +16,8 @@ This report is directed to the Head of Finance and VP of Strategy to inform reso
 
 ## EXECUTIVE SUMMARY
 
+<img width="1374" height="747" alt="Project Dashboard" src="https://github.com/user-attachments/assets/af238d22-83aa-47dd-aae9-4fb3010199a8" />
+
 ### Business Context
 This analysis examines revenue trends, growth rates, and performance drivers across product categories and geographic markets for the Olist Brazilian e-commerce marketplace. The goal is to identify opportunities for resource allocation, category investment, and geographic expansion.
 
@@ -35,6 +37,7 @@ Invest in geographic expansion beyond SP/RJ/MG corridor while maintaining catego
 
 ### A. Overall Revenue Performance
 #### High-Level Metrics
+
 
 ![KPI](https://github.com/KafayatAkinwande/Ecommerce-Revenue-Trend-and-Performance-Analysis/blob/main/KPIs.png)
 
