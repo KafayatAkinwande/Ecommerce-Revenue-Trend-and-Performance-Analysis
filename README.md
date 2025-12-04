@@ -1,5 +1,19 @@
 # Ecommerce Revenue Trend and Performance Analysis
 
+## BACKGROUND AND OVERVIEW
+
+**Olist** is a Brazilian-based e-commerce company that serves as a market place for the sale of wide range consumer and business products . Olist connects small businesses from all over Brazil to customers in brazil by listing their products on the Olist marketplace.
+
+The totals sales value from the dataset is **R$ 13.2M**, Number of sellers,74 unique product categories sold by 3,095 unique sellers. Overall customer is 32K account for over 96K transactions.
+
+This report is directed to the Head of Finance and VP of Strategy to inform resource allocation, category investment decisions, and geographic expansion priorities. It shows where the business is growing and where opportunities exist.
+
+### North Star Metrics:
+- Sales Trend: Focusing on key metrics of sales revenue per month, number of orders placed, and average order value (AOV).
+- Growth rates: Analyzing the monthly and yearly growth rate in Revenue
+- Revenue concentration: What percentage of sales can be attributed to the top 10 product categories
+- Geographic revenue share: What percentage of sales can be attributed to the top 10 % customer state
+
 ## EXECUTIVE SUMMARY
 
 ### Business Context
