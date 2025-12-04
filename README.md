@@ -5,7 +5,7 @@
 ### Business Context
 This analysis examines revenue trends, growth rates, and performance drivers across product categories and geographic markets for the Olist Brazilian e-commerce marketplace. The goal is to identify opportunities for resource allocation, category investment, and geographic expansion.
 
-#### Key Findings
+### Key Findings
 1. Revenue Growth: The marketplace achieved 114% year-over-year growth, with revenue increasing from R$2.99M (Jan-Aug 2017) to R$7.22M (Jan-Aug 2018). Current run rate based on Q3 2018 suggests annualized revenue of R$10.25M.
 
 2. Volume-Driven Growth: Growth is primarily volume-driven, with order count surging from 21.9K to 52.7K orders (+140%), while AOV remained relatively stable (R$120 average), indicating successful customer acquisition strategy.
