@@ -8,6 +8,10 @@ The totals sales value from the dataset is **R$ 13.2M**, Number of sellers,74 un
 
 This report is directed to the Head of Finance and VP of Strategy to inform resource allocation, category investment decisions, and geographic expansion priorities. It shows where the business is growing and where opportunities exist.
 
+## DATA STRUCTURE AND OVERVIEW
+
+The database structure as seen below consists of four tables: order items, products, and customers, with a total row count of over 110K records.
+
 ### North Star Metrics:
 - Sales Trend: Focusing on key metrics of sales revenue per month, number of orders placed, and average order value (AOV).
 - Growth rates: Analyzing the monthly and yearly growth rate in Revenue
@@ -16,7 +20,7 @@ This report is directed to the Head of Finance and VP of Strategy to inform reso
 
 ## EXECUTIVE SUMMARY
 
-<img width="1374" height="747" alt="Project Dashboard" src="https://github.com/user-attachments/assets/af238d22-83aa-47dd-aae9-4fb3010199a8" />
+<img width="1300" height="729" alt="Project Dashboard" src="https://github.com/user-attachments/assets/b6c5af3e-7595-4271-b8ee-2c1e36e1e038" />
 
 ### Business Context
 This analysis examines revenue trends, growth rates, and performance drivers across product categories and geographic markets for the Olist Brazilian e-commerce marketplace. The goal is to identify opportunities for resource allocation, category investment, and geographic expansion.
