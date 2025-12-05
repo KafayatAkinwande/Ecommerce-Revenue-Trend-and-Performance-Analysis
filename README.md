@@ -154,7 +154,7 @@ Olist Ecommerce is a High-Growth Marketplace with Strong Fundamentals. The marke
   
 ## BUSINESS RECOMMENDATION
 
-### Short-Term Initiatives
+### _Short-Term Initiatives_
 
 ### 1. Launch Northern Region Pilot Campaign:
 The marketing team should allocate 15% of Q4 marketing budget to targeted campaigns in RR, AP, AM states. These states show potential growth from small bases and created early mover advantage. The expected Impact of this is to capture 5-10% revenue diversification from Southeast in 6 months.
@@ -163,7 +163,7 @@ The marketing team should allocate 15% of Q4 marketing budget to targeted campai
 Recruit 10-15 new sellers in Computer Accessories (current: 30 SKUs generating R$218K). As this is the highest AOV category (R$1,098) with limited inventory depth
 This could result in an expected incremental revenue in 6 months.
 
-### Long-Term Initiatives
+### _Medium to Long-Term Initiatives_
 
 ### 3. Geographic Risk Mitigation Program
 Reduce Top 3 state concentration from 63% to <55% through the following tactics:
