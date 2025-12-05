@@ -2,9 +2,9 @@
 
 ## BACKGROUND AND OVERVIEW
 
-**Olist** is a Brazilian-based e-commerce company that serves as a market place for the sale of wide range consumer and business products . Olist connects small businesses from all over Brazil to customers in brazil by listing their products on the Olist marketplace.
+**Olist** is a Brazilian-based e-commerce company that serves as a marketplace for the sale of wide range consumer and business products . Olist connects small businesses from all over Brazil to customers in brazil by listing their products on the Olist marketplace.
 
-The totals sales value from the dataset is **R$ 13.2M**, Number of sellers,74 unique product categories sold by 3,095 unique sellers. Overall customer is 32K account for over 96K transactions.
+The totals sales value from the dataset is **R$ 13.2M**, 74 unique product categories sold by 3,095 unique sellers. Overall customer is 32K which account  for over 96K transactions.
 
 This report is directed to the Head of Finance and VP of Strategy to inform resource allocation, category investment decisions, and geographic expansion priorities. It shows where the business is growing and where opportunities exist.
 
@@ -160,7 +160,7 @@ Olist Ecommerce is a High-Growth Marketplace with Strong Fundamentals. The marke
 The marketing team should allocate 15% of Q4 marketing budget to targeted campaigns in RR, AP, AM states. These states show potential growth from small bases and created early mover advantage. The expected Impact of this is to capture 5-10% revenue diversification from Southeast in 6 months.
 
 ### 2. Optimize Computers Category Supply:
-Recruit 10-15 new sellers in Computer Accessories (current: 30 SKUs generating R$218K). As this is the highest AOV category (R$1,098) with limited inventory depth
+Recruit 10-15 new sellers in Computer Accessories (current: 30 sold generating R$218K). As this is the highest AOV category (R$1,098) with limited inventory depth
 This could result in an expected incremental revenue in 6 months.
 
 ### _Medium to Long-Term Initiatives_
