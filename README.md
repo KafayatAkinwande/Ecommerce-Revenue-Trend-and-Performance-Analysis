@@ -10,13 +10,23 @@ This report is directed to the Head of Finance and VP of Strategy to inform reso
 
 ## DATA STRUCTURE AND OVERVIEW
 
-The database structure as seen below consists of four tables: order items, products, and customers, with a total row count of over 110K records.
+The database structure as seen below consists of four tables: orders, order items, products, and customers, with a total row count of over 110K records spanning September 2016 to August 2018.
+
+<img width="1536" height="1024" alt="ERD" src="https://github.com/user-attachments/assets/035e1d67-46e0-4122-8f0d-d0444e1d85eb" />
+
+
+### Data Quality Notes:
+- **Analysis Period:** January 2017 - August 2018 (20 months)
+- **Exclusions:** September-December 2016 (incomplete and inconsistent data)
+- **Delivered Orders Only:** Excludes cancelled/pending orders
+- **Missing Categories:** 1.85% of products lack category classification (handled as 'unknown_category')
+
 
 ### North Star Metrics:
-- Sales Trend: Focusing on key metrics of sales revenue per month, number of orders placed, and average order value (AOV).
-- Growth rates: Analyzing the monthly and yearly growth rate in Revenue
-- Revenue concentration: What percentage of sales can be attributed to the top 10 product categories
-- Geographic revenue share: What percentage of sales can be attributed to the top 10 % customer state
+- **Sales Trend:** Monthly revenue, number of orders, average order value (AOV)
+- **Growth Rates:** MoM and YoY growth in revenue; annualized run rate (projected annual revenue based on recent months)
+- **Revenue Concentration:** % of sales from top 10 product categories
+- **Geographic Distribution:** % of sales from top 10 customer states
 
 ## EXECUTIVE SUMMARY
 
@@ -56,6 +66,21 @@ The marketplace processed over 96K delivered orders across 74 unique products, d
 
 - Sustained Growth: Revenue shows consistent upward trajectory from Jan 2017 through Aug 2018
 - Seasonal Patterns:
+
+Peak Performance Drivers in November 2017. (R$987K - highest month): Black Friday effect drove 1.5-2x increase across all categories
+Watches & Gifts: R$95K (AOV R$205) **and** Bed Bath Table: 961 units sold, R$87K revenue
+  
+January 2018 (R$920K) and March 2018 show strong post-holiday and spring demand
+
+Mid-Year Promotions: May 2017 peak led by Health & Beauty (R$46K) suggests successful seasonal campaigns
+
+##### Predictable Decline Pattern:
+- Consistent post-peak drops: December -26%, February -10%
+- June dips in both 2017 and 2018 indicate seasonal slowdown
+
+##### Strategic Implication:
+Clear seasonal cycles enable proactive inventory planning, campaign timing optimization, and category-specific promotional strategies (e.g., Watches & Gifts for Black Friday, Health & Beauty for mid-year).
+
 - Acceleration: Growth rate appears to accelerate in H2 2018, with recent months showing highest revenue
 
 #### Year-over-Year Growth Analysis
@@ -73,9 +98,9 @@ Based on Q3 2018 performance (Jun-Aug), the annualized run rate is R$10.25M, sug
 
 ##### Product Diversification:
 
-Top 3 categories (Health & Beauty, Watches & Gifts, Bed Bath Table) represent 25.9% of total revenue
+Top 3 categories (Health & Beauty, Watches & Gifts, Bed Bath Table) represent **only 25.9%** of total revenue, indicating **healthy diversification**. 
 
-This distribution is quite unhealthy and concentrated for a typical e-commerce. 
+**This distribution is significantly healthier than typical e-commerce** where top 3 categories often exceed 50% of revenue. This balanced portfolio reduces category-specific risk and protects against market shocks in any single category. 
 
 ##### Category Insights:
 
@@ -98,9 +123,26 @@ Balanced performers: Health & Beauty combines solid volume (2,444) with above-av
 
 ##### Geographic Concentration Risk:
 
-- São Paulo dominates with 38.3% of revenue
+- São Paulo dominates with **38.3%** of revenue
 - Top 3 states (SP, RJ, MG) account for 63.3% of total revenue
 - Southeast region concentration creates logistics efficiency but market dependency risk
+
+#### Seller Geographic Distribution & Logistics Opportunity
+
+Current Seller Concentration:
+- São Paulo: 64% of sellers
+- Top 3 states (SP, PR, MG): 81% of sellers
+
+Logistics Trade-off:
+
+Current Advantage: Seller concentration in SP enables bulk logistics, lower costs for serving Southeast customers (63% of orders)
+
+Emerging Opportunity: High customer growth in Northern states (+100-300%) currently served by distant SP sellers creates:
+- Longer delivery times (15-20 days SP→RR vs. 3-5 days local)
+- Higher shipping costs (reduces margins)
+- Customer satisfaction risk in growth markets
+
+**Strategic Recommendation:** Recruit sellers in high-growth Northern markets (RR, AP, AM) to optimize regional fulfillment, reduce delivery times, and improve customer experience in fastest-growing segments.
 
 ##### Regional Patterns:
 
@@ -142,10 +184,19 @@ Olist Ecommerce is a High-Growth Marketplace with Strong Fundamentals. The marke
 
 #### Areas of Concern:
 
-- Geographic Over-Concentration (63% in 3 states): Creates regional dependency risk
-- Slight AOV Decline (-1%): Warrants monitoring to ensure margin preservation
--  Data Limitations: Analysis limited to Aug 2018; recent trends unknown
--  Producr over concentration
+1. Geographic Over-Concentration (63% customer revenue in 3 states): Creates regional dependency risk
+
+2. Customer Market Erosion (18.6% revenue exposure):
+   Eight customer states show declining demand, most severely AC (-49.9%), AL (-18.2%), and SE (-11.6%). Root causes unclear but warrant immediate investigation:
+   - Increased competition from regional competitors
+   - Logistics/delivery challenges in these states
+   - Insufficient marketing investment
+   - Economic conditions in these regions
+   - Platform awareness/brand recognition gaps
+
+3. Slight AOV Decline (-1%): Warrants monitoring to ensure margin preservation
+
+4. Data Limitations: Analysis limited to Aug 2018; recent trends unknown
 
 #### Key Surprises
 
@@ -182,6 +233,25 @@ Maintain healthy 25-30% concentration in Top 3 categories while scaling total re
 - Proactive seller recruitment in underrepresented categories
 - Category-specific marketing budget allocation based on growth potential
 
-This would increase sustained diversification as marketplace scales to R$20M+
+**Expected Impact:** Increased sustained diversification as marketplace scales to R$20M+
+
+### 5. Investigate Secondary Market Customer Declines
+
+18.6% of revenue comes from 8 declining customer markets (AC -50%, AL -18%, SE -12%, RO -11%, PA -4%, CE -3%, MA -2%, RJ -0.2%)
+
+1. **Root Cause Analysis:**
+   - Survey lost customers in AC, AL, SE (severe declines)
+   - Benchmark delivery times vs. competitors in these states
+   - Analyze marketing spend allocation vs. customer acquisition
+   - Review competitor activity (new entrants, pricing, promotions)
+
+2. **Targeted Interventions:**
+   - **If logistics issue:** Partner with regional carriers to improve delivery speed
+   - **If awareness issue:** Increase digital marketing spend in declining states
+   - **If price sensitivity:** Test state-specific promotions or free shipping thresholds
+
+**Rationale:** Protecting  annual revenue base in at-risk markets
+
+**Expected Impact:** Reverse declines in recoverable markets; minimize losses in non-viable markets
 
 
