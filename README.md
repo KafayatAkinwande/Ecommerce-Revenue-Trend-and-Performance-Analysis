@@ -43,9 +43,10 @@ This analysis examines revenue trends, growth rates, and performance drivers acr
 
 2. Volume-Driven Growth: Growth is primarily volume-driven, with order count surging from 21.9K to 52.7K orders (+140%), while AOV remained relatively stable (R$120 average), indicating successful customer acquisition strategy.
 
-3. Geographic Concentration Risk: Revenue is heavily concentrated in São Paulo (38.3% of customer orders), with top 3 states accounting for 63% of revenue.
-   However, emerging markets like Roraima show exceptional growth (+500% YoY).
-   Healthy Category Diversification: Top 3 categories represent only 25.9% of revenue, indicating balanced portfolio with reduced concentration risk across 70+ product categories.
+3. Geographic Concentration Risk: Revenue is heavily concentrated in São Paulo SP, (38.3% of customer orders), with top 3 states accounting for 63% of revenue.
+   However, emerging markets like Roraima  (RR) show exceptional growth (+500% YoY).
+
+4. Healthy Category Diversification: Top 3 categories represent only 25.9% of revenue, indicating balanced portfolio with reduced concentration risk across 70+ product categories.
 
 ### Top Priority Recommendation
 Invest in geographic expansion beyond SP/RJ/MG corridor while maintaining category diversification. Specifically, scale customer acquisition in high-growth emerging states (RR, AP, AM) and optimize logistics to support 140% order volume growth trajectory.
@@ -67,17 +68,19 @@ The marketplace processed over 96K delivered orders across 74 unique products, d
 
 ##### Key Findings:
 
-- Sustained Growth: Revenue shows consistent upward trajectory from Jan 2017 through Aug 2018
-- Seasonal Patterns:
+###### Sustained Growth:   
+Revenue shows consistent upward trajectory from Jan 2017 through Aug 2018
 
-Peak Performance Drivers in November 2017. (R$987K - highest month): Black Friday effect drove 1.5-2x increase across all categories
-Watches & Gifts: R$95K (AOV R$205) **and** Bed Bath Table: 961 units sold, R$87K revenue
+###### Seasonal Patterns:   
+_Peak Performance Drivers in November 2017 (R$987K - highest month):_   
+Black Friday effect drove 1.5-2x increase across all categories   
+Watches & Gifts and Bed Bath Table were the highest earners with revenues of R$95K and R$87K  respectively
   
 January 2018 (R$920K) and March 2018 show strong post-holiday and spring demand
 
 Mid-Year Promotions: May 2017 peak led by Health & Beauty (R$46K) suggests successful seasonal campaigns
 
-##### Predictable Decline Pattern:
+_Predictable Decline Pattern:_
 - Consistent post-peak drops: December -26%, February -10%
 - June dips in both 2017 and 2018 indicate seasonal slowdown
 
