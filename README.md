@@ -28,6 +28,10 @@ The database structure as seen below consists of four tables: orders, order item
 - **Revenue Concentration:** % of sales from top 10 product categories
 - **Geographic Distribution:** % of sales from top 10 customer states
 
+### Resources and File
+- Dataset source: [Kaggle Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- SQL Analysis File: 
+
 ## EXECUTIVE SUMMARY
 
 <img width="1300" height="729" alt="Project Dashboard" src="https://github.com/user-attachments/assets/b6c5af3e-7595-4271-b8ee-2c1e36e1e038" />
