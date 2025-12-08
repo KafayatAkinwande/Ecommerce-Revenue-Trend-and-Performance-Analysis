@@ -30,7 +30,7 @@ The database structure as seen below consists of four tables: orders, order item
 
 ### Resources and File
 - Dataset source: [Kaggle Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-- SQL Analysis File: 
+- SQL Analysis File: [Sql Analysis](https://github.com/KafayatAkinwande/Ecommerce-Revenue-Trend-and-Performance-Analysis/blob/main/SQL%20Analysis.sql)
 
 ## EXECUTIVE SUMMARY
 
