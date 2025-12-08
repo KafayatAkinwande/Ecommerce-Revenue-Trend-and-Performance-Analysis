@@ -2,21 +2,20 @@
 
 ## BACKGROUND AND OVERVIEW
 
-**Olist** is a Brazilian-based e-commerce company that serves as a marketplace for the sale of wide range consumer and business products . Olist connects small businesses from all over Brazil to customers in brazil by listing their products on the Olist marketplace.
+**Olist** is a Brazilian-based e-commerce company that serves as a marketplace for the sale of a wide range consumer and business products . Olist connects small businesses from all over Brazil to customers in brazil by listing their products on the Olist marketplace.
 
-The totals sales value from the dataset is **R$ 13.2M**, 74 unique product categories sold by 3,095 unique sellers. Overall customer is 32K which account  for over 96K transactions.
+The **total salesvalue** in the period of this analysis is **R$ 13.2M**. **74 unique product** categories were sold by **3,095 unique sellers**. Overall number of **customer is 32K** which account for over **96K transactions**.
 
-This report is directed to the Head of Finance and VP of Strategy to inform resource allocation, category investment decisions, and geographic expansion priorities. It shows where the business is growing and where opportunities exist.
+This report is directed to the **Head of Finance** and **VP of Strategy** to inform resource allocation, category investment decisions, and geographic expansion priorities. It shows where the business is growing and where opportunities exist.
 
 ## DATA STRUCTURE AND OVERVIEW
 
-The database structure as seen below consists of four tables: orders, order items, products, and customers, with a total row count of over 110K records spanning September 2016 to August 2018.
+The database structure as seen below consists of four tables: orders, customers, product_category_name_translation, order items, and products with a total row count of **110K** records spanning September 2016 to August 2018.
 
 <img width="1536" height="1024" alt="ERD" src="https://github.com/user-attachments/assets/035e1d67-46e0-4122-8f0d-d0444e1d85eb" />
 
 
 ### Data Quality Notes:
-- **Analysis Period:** January 2017 - August 2018 (20 months)
 - **Exclusions:** September-December 2016 (incomplete and inconsistent data)
 - **Delivered Orders Only:** Excludes cancelled/pending orders
 - **Missing Categories:** 1.85% of products lack category classification (handled as 'unknown_category')
