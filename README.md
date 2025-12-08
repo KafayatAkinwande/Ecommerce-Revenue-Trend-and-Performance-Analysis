@@ -4,7 +4,7 @@
 
 **Olist** is a Brazilian-based e-commerce company that serves as a marketplace for the sale of a wide range consumer and business products . Olist connects small businesses from all over Brazil to customers in brazil by listing their products on the Olist marketplace.
 
-The **total salesvalue** in the period of this analysis is **R$ 13.2M**. **74 unique product** categories were sold by **3,095 unique sellers**. Overall number of **customer is 32K** which account for over **96K transactions**.
+The **Gross Merchandise Value (GMV)** in the period of this analysis is **R$ 13.2M**. **74 unique product** categories were sold by **3,095 unique sellers**. Overall number of **customer is 32K** which account for over **96K transactions**.
 
 This report is directed to the **Head of Finance** and **VP of Strategy** to inform resource allocation, category investment decisions, and geographic expansion priorities. It shows where the business is growing and where opportunities exist.
 
@@ -39,7 +39,7 @@ The database structure as seen below consists of four tables: orders, customers,
 This analysis examines revenue trends, growth rates, and performance drivers across product categories and geographic markets for the Olist Brazilian e-commerce marketplace. The goal is to identify opportunities for resource allocation, category investment, and geographic expansion.
 
 ### Key Findings
-1. Revenue Growth: The marketplace achieved 114% year-over-year growth, with revenue increasing from R$2.99M (Jan-Aug 2017) to R$7.22M (Jan-Aug 2018). Current run rate based on Q3 2018 suggests annualized revenue of R$10.25M.
+1. GMV Growth: The marketplace achieved 114% year-over-year growth, with revenue increasing from R$2.99M (Jan-Aug 2017) to R$7.22M (Jan-Aug 2018). Current run rate based on Q3 2018 suggests annualized revenue of R$10.25M.
 
 2. Volume-Driven Growth: Growth is primarily volume-driven, with order count surging from 21.9K to 52.7K orders (+140%), while AOV remained relatively stable (R$120 average), indicating successful customer acquisition strategy.
 
@@ -64,7 +64,8 @@ The marketplace processed over 96K delivered orders across 74 unique products, d
 
 #### Revenue Growth Trajectory
 
-![Sales Revenue Trend](https://github.com/KafayatAkinwande/Ecommerce-Revenue-Trend-and-Performance-Analysis/blob/main/Sales%20Revenue.png)
+<img width="1106" height="530" alt="Revenue Trend" src="https://github.com/user-attachments/assets/bf65de75-e81f-462a-b0ce-5b3b6b50e487" />
+
 
 ##### Key Findings:
 
@@ -72,15 +73,18 @@ The marketplace processed over 96K delivered orders across 74 unique products, d
 Revenue shows consistent upward trajectory from Jan 2017 through Aug 2018
 
 ###### Seasonal Patterns:   
-_Peak Performance Drivers in November 2017 (R$987K - highest month):_   
-Black Friday effect drove 1.5-2x increase across all categories   
-Watches & Gifts and Bed Bath Table were the highest earners with revenues of R$95K and R$87K  respectively
+
+_Peak Performance Drivers: depicted by blue points_
+
+**November 2017** (R$987K - highest month):  
+- Black Friday effect drove 1.5-2x increase across all categories   
+- Watches & Gifts and Bed Bath Table were the highest earners with revenues of R$95K and R$87K  respectively
   
-January 2018 (R$920K) and March 2018 show strong post-holiday and spring demand
+**January 2018** (R$920K) and March 2018 show strong post-holiday and spring demand
 
 Mid-Year Promotions: May 2017 peak led by Health & Beauty (R$46K) suggests successful seasonal campaigns
 
-_Predictable Decline Pattern:_
+_Predictable Decline Pattern: depicted by orange points_
 - Consistent post-peak drops: December -26%, February -10%
 - June dips in both 2017 and 2018 indicate seasonal slowdown
 
@@ -92,7 +96,7 @@ Clear seasonal cycles enable proactive inventory planning, campaign timing optim
 #### Year-over-Year Growth Analysis
 
 ##### Strategic Insight:
-The 114% year-over-year revenue growth is exceptional for an established marketplace. More importantly, this growth is volume-driven (order count +140%) rather than price-driven (AOV -1%), indicating successful customer acquisition and retention strategies. The stable AOV suggests we're maintaining product mix and not chasing high-ticket items at the expense of accessibility.
+The 114% year-over-year revenue growth is exceptional for an established marketplace. More importantly, this growth is volume-driven (order count +140%) rather than price-driven (AOV -1%), indicating successful customer acquisition and retention strategies. The stable AOV suggests we are maintaining product mix and not chasing high-ticket items at the expense of accessibility.
 
 ##### Run Rate Projection:
 Based on Q3 2018 performance (Jun-Aug), the annualized run rate is R$10.25M, suggesting potential full-year 2018 revenue of R$10-11M if momentum continues.
