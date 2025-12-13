@@ -41,7 +41,7 @@ This analysis examines revenue trends, growth rates, and performance drivers acr
 ### Key Findings
 1. GMV Growth: The marketplace achieved 114% year-over-year growth, with revenue increasing from R$2.99M (Jan-Aug 2017) to R$7.22M (Jan-Aug 2018). Current run rate based on Q3 2018 suggests annualized revenue of R$10.25M.
 
-2. Volume-Driven Growth: Growth is primarily volume-driven, with order count surging from 21.9K to 52.7K orders (+140%), while AOV remained relatively stable (R$120 average), indicating successful customer acquisition strategy.
+2. Volume-Driven Growth: Growth is primarily volume-driven, with order count surging from 21.9K to 52.7K orders (+140%), while AOV remained remarkably stable , demonstrating consistent pricing strategy and product mix despite 140% volume expansion. This stability is a positive signal - rapid volume growth did not require discounting or shift to lower-value products.
 
 3. Geographic Concentration Risk: Revenue is heavily concentrated in São Paulo SP, (38.3% of customer orders), with top 3 states accounting for 63% of revenue.
    However, emerging markets like Roraima  (RR) show exceptional growth (+500% YoY).
@@ -60,7 +60,7 @@ Invest in geographic expansion beyond SP/RJ/MG corridor while maintaining catego
 ![KPI](https://github.com/KafayatAkinwande/Ecommerce-Revenue-Trend-and-Performance-Analysis/blob/main/KPIs.png)
 
 ##### Insight:
-The marketplace processed over 96K delivered orders across 74 unique products, demonstrating significant scale and product diversity. The average order value of R$119 suggests a mix of low-to-mid value purchases typical of mass-market e-commerce.
+The marketplace processed over 96K delivered orders across 74 unique products, demonstrating significant scale and product diversity. The average order value(AOV) of R$137 positions the marketplace in the mid-value segment, indicating customers are comfortable making meaningful purchases online. This is higher than typical impulse-buy thresholds (R$50-80) and suggests established trust in the platform.
 
 #### Revenue Growth Trajectory
 
@@ -70,7 +70,7 @@ The marketplace processed over 96K delivered orders across 74 unique products, d
 ##### Key Findings:
 
 ###### Sustained Growth:   
-Revenue shows consistent upward trajectory from Jan 2017 through Aug 2018
+Revenue shows consistent upward trajectory from January 2017 through August 2018
 
 ###### Seasonal Patterns:   
 
@@ -91,12 +91,10 @@ _Predictable Decline Pattern: depicted by orange points_
 ##### Strategic Implication:
 Clear seasonal cycles enable proactive inventory planning, campaign timing optimization, and category-specific promotional strategies (e.g., Watches & Gifts for Black Friday, Health & Beauty for mid-year).
 
-- Acceleration: Growth rate appears to accelerate in H2 2018, with recent months showing highest revenue
-
 #### Year-over-Year Growth Analysis
 
 ##### Strategic Insight:
-The 114% year-over-year revenue growth is exceptional for an established marketplace. More importantly, this growth is volume-driven (order count +140%) rather than price-driven (AOV -1%), indicating successful customer acquisition and retention strategies. The stable AOV suggests we are maintaining product mix and not chasing high-ticket items at the expense of accessibility.
+The 114% year-over-year revenue growth is exceptional for an established marketplace. More importantly, this growth is volume-driven (order count +140%) as well as price-driven , indicating successful customer acquisition and retention strategies. The stable AOV suggests we are maintaining product mix and price stability in achieving  accessibility.
 
 ##### Run Rate Projection:
 Based on Q3 2018 performance (Jun-Aug), the annualized run rate is R$10.25M, suggesting potential full-year 2018 revenue of R$10-11M if momentum continues.
@@ -135,30 +133,30 @@ Balanced performers: Health & Beauty combines solid volume (2,444) with above-av
 
 - São Paulo dominates with **38.3%** of revenue
 - Top 3 states (SP, RJ, MG) account for 63.3% of total revenue
-- Southeast region concentration creates logistics efficiency but market dependency risk
+- South and Southeast region concentration creates logistics efficiency but market dependency risk
 
 #### Seller Geographic Distribution & Logistics Opportunity
 
-Current Seller Concentration:
-- São Paulo: 64% of sellers
-- Top 3 states (SP, PR, MG): 81% of sellers
+Current Seller Concentration (South and Southeast region):
+- São Paulo: 64% of sellers are located here
+- Top 3 states (SP, PR, MG): 81% of sellers here
 
 Logistics Trade-off:
 
-Current Advantage: Seller concentration in SP enables bulk logistics, lower costs for serving Southeast customers (63% of orders)
+Current Advantage: Seller concentration in SP enables bulk logistics negotiating power, lower costs for serving Southeast customers (63% of orders).
 
 Emerging Opportunity: High customer growth in Northern states (+100-300%) currently served by distant SP sellers creates:
 - Longer delivery times (15-20 days SP→RR vs. 3-5 days local)
-- Higher shipping costs (reduces margins)
+- Higher shipping costs 
 - Customer satisfaction risk in growth markets
 
 **Strategic Recommendation:** Recruit sellers in high-growth Northern markets (RR, AP, AM) to optimize regional fulfillment, reduce delivery times, and improve customer experience in fastest-growing segments.
 
 ##### Regional Patterns:
 
-High AOV states: High AOVs >R$150 are amonngst the lowest revenue generating state suggests, lower income demography concentration
-Volume states: SP leads in order count, indicating established market penetration
-Underserved regions: Northern and Central-West states show lower penetration despite population size
+High AOV states: High AOVs >R$150 are amongst the lowest revenue and number of sales, generating state suggesting limited e-commerce penetration  concentration
+Volume states: SP leads in order count, indicating established market penetration   
+Underserved regions: Northern and Central-West states show lower penetration representing <10% of total revenue
 
 #### State Growth Rate Analysis
 ![State Growth Rate](https://github.com/KafayatAkinwande/Ecommerce-Revenue-Trend-and-Performance-Analysis/blob/main/Customer%20State%20Growth.png))
@@ -182,14 +180,14 @@ The 63% concentration in top 3 states creates dependency risk. Economic downturn
 87.5% (7 out of 8) of states experiencing negative growth rates are located in the North and NorthEast Region. Though the value or percentage decrease is not signitficant. It can be looked into further the reason for the concentration in that region.
 
 ##  STRATEGIC INSIGHTS 
-Olist Ecommerce is a High-Growth Marketplace with Strong Fundamentals. The market is experiencing exceptional growth (114% YoY) driven by successful customer acquisition and volume expansion. With 70+ product categories generating revenue, the platform demonstrates healthy diversification that reduces concentration risk. However, geographic concentration in the Southeast region (63% of revenue) and product concentration presents both an operational advantage and a strategic vulnerability.
+Olist Ecommerce is a High-Growth Marketplace with Strong Fundamentals. The market is experiencing exceptional growth (114% YoY) driven by successful customer acquisition and volume expansion. With 70+ product categories generating revenue, the platform demonstrates healthy diversification that reduces concentration risk. However, geographic concentration in the Southeast region (63% of revenue) and product concentration presents both an operational advantage ( faster delivery and lower logistics costs) and a strategic vulnerability (Over-dependence on one region creates risk).
 
 ### Critical Success Factors
 #### What's Working Well:
 
 - Exceptional Volume Growth (+140% orders): Customer acquisition strategy is highly effective
 - Balanced Category Portfolio (Top 3 = 26%): Diversification protects against category-specific shocks
-- Stable Unit Economics (AOV R$119): Pricing strategy maintains value without sacrificing growth
+- Stable Unit Economics (AOV R$137): Pricing strategy maintains value without sacrificing growth
 - Accelerating Momentum (Q3 run rate R$10.25M): Recent performance suggests continued expansion
 
 #### Areas of Concern:
@@ -204,7 +202,7 @@ Olist Ecommerce is a High-Growth Marketplace with Strong Fundamentals. The marke
    - Economic conditions in these regions
    - Platform awareness/brand recognition gaps
 
-3. Slight AOV Decline (-1%): Warrants monitoring to ensure margin preservation
+3. Stable AOV (+0.3%): Volume-driven growth achieved without price erosion, indicating healthy unit economics and strong product-market fit
 
 4. Data Limitations: Analysis limited to Aug 2018; recent trends unknown
 
@@ -221,8 +219,7 @@ Olist Ecommerce is a High-Growth Marketplace with Strong Fundamentals. The marke
 The marketing team should allocate 15% of Q4 marketing budget to targeted campaigns in RR, AP, AM states. These states show potential growth from small bases and created early mover advantage. The expected Impact of this is to capture 5-10% revenue diversification from Southeast in 6 months.
 
 ### 2. Optimize Computers Category Supply:
-Recruit 10-15 new sellers in Computer Accessories (current: 30 sold generating R$218K). As this is the highest AOV category (R$1,098) with limited inventory depth
-This could result in an expected incremental revenue in 6 months.
+Recruit 10-15 new sellers in Computer Accessories (current: 30 sold generating R$218K). As this is the highest AOV category (R$1,098) with limited inventory depth, this could result in an expected incremental revenue in 6 months.
 
 ### _Medium to Long-Term Initiatives_
 
@@ -243,7 +240,7 @@ Maintain healthy 25-30% concentration in Top 3 categories while scaling total re
 - Proactive seller recruitment in underrepresented categories
 - Category-specific marketing budget allocation based on growth potential
 
-**Expected Impact:** Increased sustained diversification as marketplace scales to R$20M+
+**Expected Impact:** Increased sustained diversification as marketplace scales.
 
 ### 5. Investigate Secondary Market Customer Declines
 
