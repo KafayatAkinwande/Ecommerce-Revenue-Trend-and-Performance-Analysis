@@ -33,7 +33,7 @@ The database structure as seen below consists of four tables: orders, customers,
 
 ## EXECUTIVE SUMMARY
 
-<img width="1316" height="733" alt="Project Dashboard" src="https://github.com/user-attachments/assets/b87bfc02-1258-4ad9-8d2e-1e390a889b27" />
+<img width="1314" height="739" alt="Project Dashboard" src="https://github.com/user-attachments/assets/94cf594c-3809-492e-bc28-84c4bef9d46a" />
 
 ### Business Context
 This analysis examines revenue trends, growth rates, and performance drivers across product categories and geographic markets for the Olist Brazilian e-commerce marketplace. The goal is to identify opportunities for resource allocation, category investment, and geographic expansion.
