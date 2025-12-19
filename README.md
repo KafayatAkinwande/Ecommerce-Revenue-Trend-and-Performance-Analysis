@@ -10,7 +10,7 @@ This report is directed to the **Head of Finance** and **VP of Strategy** to inf
 
 ## DATA STRUCTURE AND OVERVIEW
 
-The database structure as seen below consists of four tables: orders, customers, product_category_name_translation, order items, and products with a total row count of **110K** records spanning September 2016 to August 2018.
+The database structure as seen below consists of five tables: orders, customers, product_category_name_translation, order items, and products with a total row count of **110K** records spanning September 2016 to August 2018.
 
 <img width="1536" height="1024" alt="ERD" src="https://github.com/user-attachments/assets/035e1d67-46e0-4122-8f0d-d0444e1d85eb" />
 
