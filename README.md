@@ -51,7 +51,7 @@ This analysis examines revenue trends, growth rates, and performance drivers acr
 ### Top Priority Recommendation
 Invest in geographic expansion beyond SP/RJ/MG corridor while maintaining category diversification. Specifically, scale customer acquisition in high-growth emerging states (RR, AP, AM) and optimize logistics to support 140% order volume growth trajectory.
 
-## ANALYSIS & FINDINGS
+## INSIGHT DEEPDIVE
 
 ### A. Overall Revenue Performance
 #### High-Level Metrics
